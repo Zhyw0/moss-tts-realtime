@@ -6,12 +6,14 @@ title: "MOSS-TTS-Realtime: Low-Latency and Context-Aware Full-Stream Speech Synt
 
 ### Context-Aware Speech Synthesis for Real-Time Voice Agents
 
-**Yiwei Zhao<sup>1,2,3,*</sup>, Yaozhou Jiang<sup>2,3,*</sup>, Botian Jiang<sup>1,2,3</sup>, Yiyang Zhang<sup>1,2,3</sup>, Zhe Xu<sup>1,2,3</sup>, Kexin Huang<sup>2</sup>, Yuqian Zhang<sup>1,2,3</sup>, Xiaogui Yang<sup>3</sup>, Qingyuan Cheng<sup>3</sup>, Xipeng Qiu<sup>1,2,†</sup>**
+**Yiwei Zhao<sup>1,2,3,*</sup>, Yaozhou Jiang<sup>1,3,*</sup>, Botian Jiang<sup>1,2,3</sup>, Kexin Huang<sup>1</sup>, Yiyang Zhang<sup>1,2,3</sup>, Zhe Xu<sup>1,2,3</sup>, Yuqian Zhang<sup>1,2,3</sup>, Xiaogui Yang<sup>3</sup>, Qingyuan Cheng<sup>3</sup>, Xipeng Qiu<sup>1,2,3,†</sup>**
 
-<sup>1</sup> Shanghai Innovation Institute &nbsp; · &nbsp;
-<sup>2</sup> Fudan University &nbsp; · &nbsp;
-<sup>3</sup> MOSI
+<sup>1</sup> Fudan University &nbsp; · &nbsp;
+<sup>2</sup> Shanghai Innovation Institute &nbsp; · &nbsp;
+<sup>3</sup> MOSI.AI
 
+<sup>*</sup> Equal contribution &nbsp; · &nbsp;
+<sup>†</sup> Corresponding author
 <sup>*</sup> Equal contribution &nbsp; · &nbsp;
 <sup>†</sup> Corresponding author
 
