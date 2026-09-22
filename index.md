@@ -37,6 +37,10 @@ We present **MOSS-TTS-Realtime**, a context-aware full-stream text-to-speech sys
 
 - **High quality**: Maintains competitive zero-shot voice cloning quality while delivering strong subjective naturalness and contextual appropriateness.
 
+## Architecture
+
+![MOSS-TTS-Realtime model architecture](assets/moss_tts_realtime.png)
+
 ---
 
 ## Demo
